@@ -1,3 +1,5 @@
+Test
+
 # Variational Bayesian Multiple Instance Learning with Gaussian Processes
 
 The repository contains the source code for the model published in 
